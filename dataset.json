@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Fall River, Massachusetts. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Fall River, Massachusetts, US",
+  "export_job_id": "8f8e2183-e9b8-40eb-9be7-6eadb48a1432",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 634085,
+  "location_name": "Fall River",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-fall-river-massachusetts-us-sample-634085",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/634085/beamstation_634085_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_pct": 9.83,
+  "sample_records": 34,
+  "sample_sha256": "b783d37b45d4f58d5363040e27a530ef481a649cd606cd128e0529a0529c77fd",
+  "sample_size_bytes": 140167,
+  "total_records": 346,
+  "updated_at": "2026-04-07T11:26:24.492102+00:00"
+}
