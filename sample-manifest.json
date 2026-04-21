@@ -1,12 +1,12 @@
 {
-  "export_job_id": "263f20c3-60ea-48ca-8986-92ba92253c49",
+  "export_job_id": "3e9d8917-a7a7-4f88-b532-ddfd07eeef58",
   "id_short": 634085,
-  "published_at": "2026-04-17T19:47:30Z",
+  "published_at": "2026-04-21T19:39:19Z",
   "repo_name": "all-restaurants-in-fall-river-massachusetts-us-sample-634085",
   "sample_asset_name": "beamstation_634085_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/634085/beamstation_634085_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 34,
-  "sample_sha256": "da14f1128737069345ec45848cca4c2d82b8ecb94c2584e5ce6590bdc1c138df",
-  "sample_size_bytes": 128045,
-  "total_records": 343
+  "sample_records": 29,
+  "sample_sha256": "91dcf7d70125223406e98666a0c1b67f2cfe66641ef7721f6f5b8d6668cff641",
+  "sample_size_bytes": 111463,
+  "total_records": 294
 }
