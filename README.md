@@ -1,6 +1,6 @@
 # All Restaurants in Fall River, Massachusetts, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 34 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `634085` |
 | Location | Fall River |
 | Category | Restaurants |
-| Full dataset size | 294 records |
-| Free sample size | 29 records (9.86%) |
-| Last export | 2026-04-21T11:48:50.762333+00:00 |
+| Full dataset size | 348 records |
+| Free sample size | 34 records (9.77%) |
+| Last export | 2026-04-28T12:39:23.014671+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fall-river-massachusetts-us-sample-634085/releases/download/sample-latest/beamstation_634085_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
