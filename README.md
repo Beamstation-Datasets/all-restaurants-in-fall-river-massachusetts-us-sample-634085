@@ -9,9 +9,9 @@
 | Dataset ID | `634085` |
 | Location | Fall River |
 | Category | Restaurants |
-| Full dataset size | 348 records |
-| Free sample size | 34 records (9.77%) |
-| Last export | 2026-04-28T12:39:23.014671+00:00 |
+| Full dataset size | 349 records |
+| Free sample size | 34 records (9.74%) |
+| Last export | 2026-05-05T20:48:26.414824+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fall-river-massachusetts-us-sample-634085/releases/download/sample-latest/beamstation_634085_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
